@@ -1,0 +1,55 @@
+body{
+
+background-image:rgb(201, 28, 28);
+font-size: 12px;
+border: solid #404dc2  ;
+background-color:rgb(206, 194, 194);
+}
+
+h1{
+color: rgb(119, 28, 28);
+font:size 8px;
+border:darkblue dotted lightcoral;
+
+}
+h2{
+ color: rgb(189, 22, 49);
+ font: size 8px;
+
+
+}
+
+ol{
+
+    color: rgb(64, 80, 38);
+    font:size 8px;
+    border:rgb(126, 194, 36) dotted lightcoral;
+      
+}
+h3{
+
+    color:deeppink;
+    font:size 8px;
+    border:darkblue dotted green;
+}
+
+table{
+
+    color: rgb(80, 38, 40);
+    font:size 8px;
+    border:rgb(126, 194, 36) dotted lightcoral;
+
+
+}
+thead{
+
+    color: rgb(204, 87, 32);
+    font:size 8px;
+    border:rgb(30, 21, 156) dotted lightcoral;
+
+}
+
+.submit {
+    /* border: solid black; */
+    margin-left: 40px;
+    }
